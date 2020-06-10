@@ -1,2 +1,3 @@
-# automated-vlsi-using-eda-tool
-automated vlsi using eda tool
+# automated circuit to magic vlsi layout using open source eda tools.
+
+
