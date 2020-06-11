@@ -1,7 +1,7 @@
 # automated circuit to magic vlsi layout using open source eda tools.
 <h6>
 <p>
-***This is project from virtual internship program offered by E&ICT IIT, Guwahati***
+*** This is project from virtual internship program offered by E&ICT IIT, Guwahati ***
 </p>
     </h6>
 <br>
@@ -23,8 +23,8 @@ This engine is known as ***Automated Circuit to MAGIC VLSI Engine***.
 <br>
 <h2>Tools used for Implenting this Idea</h2><br>
 <p>
-    1. ngSpice layout editior
-    2. Python 3.6 or up
-    3. Turtle Graphics
+    1. ngSpice layout editior<br>
+    2. Python 3.6 or up<br>
+    3. Turtle Graphics<br>
 </p>
 <br>
