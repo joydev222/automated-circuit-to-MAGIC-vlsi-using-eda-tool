@@ -1,13 +1,12 @@
 # automated circuit to magic vlsi layout using open source eda tools.
-<h6>
+<h5>
 <p>
-*** This is project from virtual internship program offered by E&ICT IIT, Guwahati ***
+This is project from virtual internship program offered by E&ICT IIT, Guwahati
 </p>
-    </h6>
+    </h5>
 <br>
 <p>
     <h4>Overview: </h4><br>
-    ***
         <p>
         Circuit Design and Layout is one of the most important steps in the flow steps in VLSI. These are designed using  the manual processes. This could also be a time-consuming process. However, this can be resolved by using Open-Source EDA Tools by designing in some specific language. Circuit Simulation is carried out by some open-source EDA Tools and like MAGIC, e-Sim, etc. and layout can design in any tool like MAGIC, Microwind, etc. </p>
 </p>
