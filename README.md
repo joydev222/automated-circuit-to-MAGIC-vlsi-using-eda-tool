@@ -22,8 +22,8 @@ This engine is known as ***Automated Circuit to MAGIC VLSI Engine***.
 <br>
 <h2>Tools used for Implenting this Idea</h2><br>
 <p>
-    1. ngSpice layout editior. Download from <a href="http://ngspice.sourceforge.net/">click here</a><br>
-    2. Python 3.6 or up Download from here <a href="www.python.org/downloads">click here</a><br>
-    3. Turtle Graphics<br>
+    1. ngSpice layout editior. Download from <a href="http://ngspice.sourceforge.net/">Click Here</a><br>
+    2. Python 3.6 or up Download from here <a href="http://www.python.org/downloads">Click Here</a><br>
+    3. Turtle Graphics Download from here: <a href="http://pythonturtle.org/">Click Here</a><br>
 </p>
 <br>
